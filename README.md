@@ -1,4 +1,4 @@
-# Requesting-WiFi-Access-Through-ServiceNow
+# Requesting WiFi Access Through ServiceNow
 ## Project Overview 
 This project focuses on creating and streamlining the process of requesting WiFi access using ServiceNow. It is designed to address the challenge of manual, time-consuming, and inconsistent WiFi access management processes. The goal is to deliver an efficient, automated solution leveraging ServiceNow's capabilities for catalog item creation, workflow automation, and service portal integration. This initiative aims to enhance user experience, improve operational efficiency, and ensure seamless access management while supporting the organization’s broader objective of digital transformation.
 
